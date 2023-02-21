@@ -1,6 +1,6 @@
 # Vehicle Lane Invasion Detection Based on Computer Vision Algorithms
-## By Victor Enrique Gil Altamirano
-## Supervised by Prof. Guo Ling.
+## By --- (Anonymous due to blind review)
+## Supervised by Prof. ---.(Anonymous due to blind review)
 
 Last update: February 3rd, 2023
 
