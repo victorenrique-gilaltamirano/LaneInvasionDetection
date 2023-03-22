@@ -2,7 +2,7 @@
 ## By Victor Enrique Gil Altamirano
 ## Supervised by Prof. Guo Ling.
 
-Last update: February 3rd, 2023
+Last update: March 22nd, 2023
 
 # Abstract
 Transportation, moving people and goods from one place to another, has become a major driver of social development. Unfortunately, the increase of vehicles introduces a greater risk of accidents as well. Majority of car accidents are caused by driver’s misconducts, rather than vehicle’s malfunction, predominantly by improper lane-merging maneuvers. Therefore, the development of an advanced driver assistance system based on lane intrusion detection can regulate the driver's behavior, thereby preventing the occurrence of dangerous driving behavior.
